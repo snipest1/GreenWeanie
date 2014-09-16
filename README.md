@@ -1,0 +1,4 @@
+GreenWeanie
+===========
+
+greenweenie server configuration
